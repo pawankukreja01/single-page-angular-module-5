@@ -1,7 +1,5 @@
 # Assignment Instructions
 
-## General Idea
-Your starting point for this assignment will be the code in the `examples/Lecture59` folder.
 
 Your task is fairly simply.
 
